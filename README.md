@@ -53,20 +53,20 @@ New-ADUser -Name "Ana Torres" -SamAccountName "atorres" `
 ## 📸 Capturas completas
 | Paso | Descripción |
 |------|-------------|
-| ![](configurarlared.png) | AD DS instalado |
-| ![](configuraciondeip.png) | AD DS instalado |
-| ![](instalarlosgruposyroles.png) | AD DS instalado |
-| ![](rolesdelservidor.png) | AD DS instalado |
-| ![](confirmacioninstalaciongruposyroles.png) | AD DS instalado |
-| ![](configderolesygrupos.png) | AD DS instalado |
-| ![](creaciondeunpuntoderetornoencasodeerrores.png) | Seguridad y respaldo |
-| ![](creaciondelgrupodepartamentos.png) | Estructura de OUs |
-| ![](creaciondeorganizaciones.png) | Estructura de OUs |
-| ![](creaciondeusuariosensusrespectivasorganizaciones.png) | Usuarios y grupo de seguridad |
+| ![](configurar_la_red.png) | AD DS instalado |
+| ![](configuracion_de_ip.png) | AD DS instalado |
+| ![](instalar_los_grupos_y_roles.png) | AD DS instalado |
+| ![](roles_del_servidor.png) | AD DS instalado |
+| ![](confirmacion_instalacion_grupos_y_roles.png) | AD DS instalado |
+| ![](config_de_roles_y_grupos.png) | AD DS instalado |
+| ![](creacion_de_un_punto_de_retorno_en_caso_de_errores.png) | Seguridad y respaldo |
+| ![](creacion_del_grupo_departamentos.png) | Estructura de OUs |
+| ![](creacion_de_organizaciones.png) | Estructura de OUs |
+| ![](creacion_de_usuarios_en_sus_respectivas_organizaciones.png) | Usuarios y grupo de seguridad |
 | ![](dns.png) | DNS zona principal |
-| ![](verificardnscreado.png) | DNS zona principal |
-| ![](crearnuevosusuariosmediantepowershell.png) | Script PowerShell |
-| ![](verificarcreaciondeusuarios.png) | Script PowerShell |
+| ![](verificar_dns_creado.png) | DNS zona principal |
+| ![](crear_nuevos_usuarios_mediante_powershell.png) | Script PowerShell |
+| ![](verificar_creacion_de_usuarios.png) | Script PowerShell |
 
 ## 👤 Autor
 Bryan Carreño Hidalgo — Egresado Ingeniería en Informática, INACAP La Granja
