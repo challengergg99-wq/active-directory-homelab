@@ -39,7 +39,7 @@ Política `Politica_Escritorio` vinculada a la OU Departamentos:
 ### 5. Automatización con PowerShell
 Script para crear usuarios en masa desde código, asignándolos directamente a su OU.
 
-![Script PowerShell](crearnuevosusuariosmediantepowershell.png)
+![Script PowerShell](nuevos_usuarios_mediante_powershell.png)
 
 ## 📁 Script incluido
 
