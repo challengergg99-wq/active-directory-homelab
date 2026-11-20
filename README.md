@@ -62,10 +62,10 @@ New-ADUser -Name "Ana Torres" -SamAccountName "atorres" `
 | ![](creacion_de_un_punto_de_retorno_en_caso_de_errores.png) | Seguridad y respaldo |
 | ![](creacion_del_grupo_departamentos.png) | Estructura de OUs |
 | ![](creacion_de_organizaciones.png) | Estructura de OUs |
-| ![](creacion_de_usuarios_en_sus_respectivas_organizaciones.png) | Usuarios y grupo de seguridad |
+| ![](confirmacion_que_los_usuarios_esten_en_sus_respectivas_organizaciones.png) | Usuarios y grupo de seguridad |
 | ![](dns.png) | DNS zona principal |
 | ![](verificar_dns_creado.png) | DNS zona principal |
-| ![](crear_nuevos_usuarios_mediante_powershell.png) | Script PowerShell |
+| ![](nuevos_usuarios_mediante_powershell.png) | Script PowerShell |
 | ![](verificar_creacion_de_usuarios.png) | Script PowerShell |
 
 ## 👤 Autor
