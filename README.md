@@ -22,7 +22,7 @@ Creación del dominio `empresa.local` con estructura de Unidades Organizativas:
 - 3 usuarios creados manualmente en sus OUs correspondientes
 - Grupo de seguridad `GRP_TI_Admins` con miembros asignados
 
-![Grupo de seguridad](creaciondeusuariosensusrespectivasorganizaciones.png)
+![Grupo de seguridad](creacion_de_organizaciones.png)
 
 ### 3. Group Policy (GPO)
 Política `Politica_Escritorio` vinculada a la OU Departamentos:
