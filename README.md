@@ -16,7 +16,7 @@ Simula un entorno corporativo real con dominio, usuarios, políticas de grupo y 
 Creación del dominio `empresa.local` con estructura de Unidades Organizativas:
 - OU: Departamentos → TI, RRHH, Administracion
 
-![Estructura OUs](configderolesygrupos.png)
+![Estructura OUs](config de roles y grupos.png)
 
 ### 2. Usuarios y Grupos de Seguridad
 - 3 usuarios creados manualmente en sus OUs correspondientes
